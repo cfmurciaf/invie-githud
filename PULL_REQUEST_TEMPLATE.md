@@ -1,8 +1,7 @@
 # Descripcion 
 ¿Que a cambiado?
 
-- frontEnd
-- BackEnd
-- Server
-
+- [ ] FrontEnd
+- [ ] BackEnd
+- [ ] Server
 # como puede validar los cambios
